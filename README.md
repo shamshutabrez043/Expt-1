@@ -28,7 +28,7 @@ class Test {
 
 ```
 #output:
-![output of primitive](Primitive.png)
+![output of primitive](primitive.png)
 
 # Expt-1b
 ```java
